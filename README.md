@@ -1,4 +1,4 @@
-<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/eb1e5379-4aa3-40d1-a6e1-15e2029a9556" /># Frequency-Division-Multiplexing---Modulation-and-Demodulation-using-Python
+# Frequency-Division-Multiplexing---Modulation-and-Demodulation-using-Python
 
 __Aim__:
 
